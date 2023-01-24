@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>icons/C++.png</file>
+    <file>icons/C#.png</file>
+    <file>icons/Java.png</file>
+    <file>icons/Rust.png</file>
+    <file>icons/Go.png</file>
+    <file>icons/PHP.png</file>
+    <file>icons/Javascript.png</file>
+    <file>icons/Python.png</file>
+    <file>icons/default.png</file>
+</qresource>
+</RCC>
